@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<script type="text/javascript;version=1.8" src="zz.js"></script>
+		<script type="text/javascript;version=1.8">
+function figs()
+{
+	fig1();
+	fig2();
+}
+function fig1()
+{
+	var ctz = getFigure("fig1");
+	createNav(".qtzz.bye", ".qtzz.they.say.he.comes", ".qtzz.hello", "tan");
+	var root = createRoot(200, 250, "root");
+	createCellYNeg(root, "something");
+	createCellXPos(root, "hello there");
+	createCellYPos(root, "else");
+
+}
+function fig2()
+{
+	var ctx = getFigure("fig1");
+	ctx.fillStyle="green";
+	ctx.fillRect(0,0,350,300);
+	ctx.fillStyle="black";
+	createNav("dims.children", "dims.siblings", "dims.visually-mapped", "gray");
+	var root = createRoot(200, 250, "comes");
+	var root2 = createRoot(400, 400, "root", false);
+	createCellYNeg(root, "Zalgo");
+	var cell = root;
+	var cells = ["he", "say", "they", "qtzz"];
+	for (c in cells)
+	{
+		cell = createCellXNeg(cell, cells[c]);
+	}
+
+	createCellYNeg(root2, "something");
+	createCellXPos(root2, "hello there");
+	createCellYPos(root2, "else");
+}
+
+		</script>
+		<style>
+			.fig {
+				background-color: blue;
+				width: 80%;
+				height: 400px;
+				margin-left: 10%;
+				margin-right: 10%;
+			}
+		<style>
+	</head>
+	<body onload="figs()">
+		<canvas id="fig1" class="fig"></canvas>
+		<canvas id="fig2" class="fig"></canvas>
+		<canvas id="fig3" class="fig"></canvas>
+	</body>
+</html>

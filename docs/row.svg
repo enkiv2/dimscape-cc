@@ -1,0 +1,73 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: fig2dev Version 3.2 Patchlevel 5 -->
+<!-- CreationDate: Mon Jun 14 21:08:49 2010 -->
+<!-- Magnification: 1.000 -->
+<svg xmlns="http://www.w3.org/2000/svg" width="3.3in" height="3.1in" viewBox="1092 1317 3930 3741">
+<g style="stroke-width:.025in; stroke:black; fill:none">
+<!-- Line: box -->
+<rect x="2400" y="2400" width="1200" height="1200" rx="105" 
+style="stroke:#000000;stroke-width:60;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line: box -->
+<rect x="2475" y="4200" width="1050" height="825" rx="105" 
+style="stroke:#000000;stroke-width:30;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line: box -->
+<rect x="2475" y="1350" width="1050" height="750" rx="105" 
+style="stroke:#000000;stroke-width:30;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line: box -->
+<rect x="3900" y="2625" width="975" height="750" rx="105" 
+style="stroke:#000000;stroke-width:30;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line: box -->
+<rect x="1200" y="2550" width="975" height="825" rx="105" 
+style="stroke:#000000;stroke-width:30;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line: box -->
+<rect x="1200" y="1350" width="975" height="675" rx="105" 
+style="stroke:#000000;stroke-width:30;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line: box -->
+<rect x="3825" y="1425" width="1050" height="675" rx="105" 
+style="stroke:#000000;stroke-width:30;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line: box -->
+<rect x="1125" y="4200" width="1125" height="825" rx="105" 
+style="stroke:#000000;stroke-width:30;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line: box -->
+<rect x="3825" y="4200" width="1125" height="825" rx="105" 
+style="stroke:#000000;stroke-width:30;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Text -->
+<text xml:space="preserve" x="2550" y="2925" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="144" text-anchor="start">dimspace!</text>
+<!-- Text -->
+<text xml:space="preserve" x="1350" y="1650" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="144" text-anchor="start">the rows</text>
+<!-- Text -->
+<text xml:space="preserve" x="2700" y="1650" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="144" text-anchor="start">are</text>
+<!-- Text -->
+<text xml:space="preserve" x="3975" y="1800" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="144" text-anchor="start">regular</text>
+<!-- Text -->
+<text xml:space="preserve" x="1350" y="2850" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="144" text-anchor="start">negward</text>
+<!-- Text -->
+<text xml:space="preserve" x="4200" y="2925" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="144" text-anchor="start">posward</text>
+<!-- Text -->
+<text xml:space="preserve" x="1275" y="4500" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="144" text-anchor="start">sometimes</text>
+<!-- Text -->
+<text xml:space="preserve" x="2625" y="4575" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="144" text-anchor="start">they get</text>
+<!-- Text -->
+<text xml:space="preserve" x="3900" y="4500" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="144" text-anchor="start">trunkated li</text>
+</g>
+</svg>

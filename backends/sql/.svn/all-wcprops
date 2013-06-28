@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/84/trunk/backends/sql
+END
+zzsqlbackend.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/84/trunk/backends/sql/zzsqlbackend.h
+END
+runtime.sql
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/84/trunk/backends/sql/runtime.sql
+END
+zzsqlbackend.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/84/trunk/backends/sql/zzsqlbackend.cpp
+END
+schema.sql
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/84/trunk/backends/sql/schema.sql
+END
+sql.pro
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/84/trunk/backends/sql/sql.pro
+END

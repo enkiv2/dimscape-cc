@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/!svn/ver/82/trunk/frontends
+END
+zzspace.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/59/trunk/frontends/zzspace.cpp
+END
+frontends.pro
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/82/trunk/frontends/frontends.pro
+END
+mainwindow.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/59/trunk/frontends/mainwindow.h
+END
+zzgraphicscell.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/59/trunk/frontends/zzgraphicscell.cpp
+END
+zzspace.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/72/trunk/frontends/zzspace.h
+END
+main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/72/trunk/frontends/main.cpp
+END
+mainwindow.ui
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/59/trunk/frontends/mainwindow.ui
+END
+zzgraphicscell.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/76/trunk/frontends/zzgraphicscell.h
+END
+mainwindow.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/76/trunk/frontends/mainwindow.cpp
+END

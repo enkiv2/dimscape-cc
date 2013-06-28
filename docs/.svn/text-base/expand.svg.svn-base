@@ -1,0 +1,76 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: fig2dev Version 3.2 Patchlevel 5 -->
+<!-- CreationDate: Mon Jun 14 21:08:23 2010 -->
+<!-- Magnification: 1.000 -->
+<svg xmlns="http://www.w3.org/2000/svg" width="4.0in" height="3.1in" viewBox="1017 1692 4791 3741">
+<g style="stroke-width:.025in; stroke:black; fill:none">
+<!-- Line: box -->
+<rect x="2400" y="2400" width="1200" height="1200" rx="105" 
+style="stroke:#000000;stroke-width:60;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line: box -->
+<rect x="1950" y="4125" width="2175" height="525" rx="105" 
+style="stroke:#000000;stroke-width:30;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line: box -->
+<rect x="4950" y="2475" width="825" height="750" rx="105" 
+style="stroke:#000000;stroke-width:30;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line: box -->
+<rect x="3750" y="2550" width="1500" height="900" rx="105" 
+style="stroke:#000000;stroke-width:30;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line: box -->
+<rect x="1350" y="2625" width="825" height="525" rx="105" 
+style="stroke:#000000;stroke-width:30;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line: box -->
+<rect x="1050" y="2325" width="900" height="900" rx="105" 
+style="stroke:#000000;stroke-width:30;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line: box -->
+<rect x="2325" y="4800" width="1425" height="600" rx="105" 
+style="stroke:#000000;stroke-width:30;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line: box -->
+<rect x="2400" y="1725" width="1200" height="450" rx="105" 
+style="stroke:#000000;stroke-width:30;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Text -->
+<text xml:space="preserve" x="2550" y="2925" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="144" text-anchor="start">dimspace!</text>
+<!-- Text -->
+<text xml:space="preserve" x="3900" y="2775" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="144" text-anchor="start">so, I heard </text>
+<!-- Text -->
+<text xml:space="preserve" x="3900" y="2970" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="144" text-anchor="start">you liked</text>
+<!-- Text -->
+<text xml:space="preserve" x="3900" y="3165" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="144" text-anchor="start">mudkips...</text>
+<!-- Text -->
+<text xml:space="preserve" x="5100" y="2700" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="144" text-anchor="start">oh</text>
+<!-- Text -->
+<text xml:space="preserve" x="5100" y="2895" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="144" text-anchor="start">really?</text>
+<!-- Text -->
+<text xml:space="preserve" x="1125" y="2550" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="144" text-anchor="start">this is</text>
+<!-- Text -->
+<text xml:space="preserve" x="1125" y="2745" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="144" text-anchor="start">way far</text>
+<!-- Text -->
+<text xml:space="preserve" x="1125" y="2940" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="144" text-anchor="start">to the </text>
+<!-- Text -->
+<text xml:space="preserve" x="1125" y="3135" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="144" text-anchor="start">side</text>
+<!-- Text -->
+<text xml:space="preserve" x="2550" y="1950" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="144" text-anchor="start">expand out</text>
+<!-- Text -->
+<text xml:space="preserve" x="2100" y="4425" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="144" text-anchor="start">this makes it overlap</text>
+<!-- Text -->
+<text xml:space="preserve" x="2475" y="5025" stroke="#000000" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="144" text-anchor="start">sometimes</text>
+</g>
+</svg>

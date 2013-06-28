@@ -1,0 +1,21 @@
+INTRODUCTION
+
+DimScape is a zzstructure browser and editor written in C++ with Qt. It can be used as a mind mapper, an organizer, or even possibly a spreadsheet.
+
+WHAT IS A ZZSTRUCTURE?
+
+A zzstructure is a particular type of data structure invented by Project Xanadu, and it consists of a group of cells, each of which have a link to at most two neighbouring cells in each of n dimensions. One of these cells will be connected forward (or posward) and the other one will be connected backward (negward). By viewing only two dimensions at a time and cunningly changing which dimensions are viewed, one can very easily navigate such a structure, which makes it in some ways more useful than typical mind mapping software.
+
+WHAT IS SPECIAL ABOUT DIMSCAPE?
+
+There are (or were) several other zzstructure navigator projects in the works. DimScape is different in several important ways:
+ * Unlike gzz, we plan to implement complete support for creating and editing zzstructures by the first release
+ * This software is not limited to displaying text in its cells
+ * DimScape uses a sqlite database as its backend, giving it a much higher upper limit to the number of cells
+ * The use of modal editing and the z2 display mode are unique to DimScape
+ * We have a better logo
+
+WHAT ARE THE FUTURE PLANS?
+
+Once we have all of the core functionality up, running, and stable, we plan to implement a forth-like language that can take advantage of the unique attributes of zzstructure-based programming. We also plan to make use of a naming hierarchy in dimensions, create a plugin system for supporting new cell types, and create built-in support for displaying videos and mixed-type cell contents loaded from the user's filesystem.
+
