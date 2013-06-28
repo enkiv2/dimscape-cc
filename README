@@ -1,3 +1,12 @@
+Historical note: 
+
+This code was written several years ago, and development on it was dropped. It is now abandoned. It was eventually replaced with the code currently hosted at http://github.com/ccs4ever/dimscape , and it's put here for historical reasons.
+
+This code was hosted at http://code.google.com/p/dimscape
+
+The following is the original readme
+========================================================================
+
 INTRODUCTION
 
 DimScape is a zzstructure browser and editor written in C++ with Qt. It can be used as a mind mapper, an organizer, or even possibly a spreadsheet.
